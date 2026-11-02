@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or draw inspiration from this work, please cite it as below and link to the original repository."
+title: "What does it mean to become a Frontier Firm?"
+abstract: "An interactive bilingual (French/English) white paper on what becoming a Frontier Firm means for organisations, work and value creation in the age of AI agents."
+type: generic
+authors:
+  - family-names: "ANANDOUT"
+    given-names: "Kevin"
+license: CC-BY-4.0
+repository-code: "https://github.com/KANANDOUT/frontier-firm-whitepaper"
+url: "https://github.com/KANANDOUT/frontier-firm-whitepaper"
+date-released: "2026-10-29"
+keywords:
+  - Frontier Firm
+  - AI agents
+  - Generative AI
+  - Organisational transformation
+  - Microsoft 365 Copilot
